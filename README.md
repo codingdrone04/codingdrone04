@@ -15,9 +15,10 @@
 
 ## 🛠️ Tech & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-1E4E65?logo=arangodb&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
