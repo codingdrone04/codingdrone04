@@ -1,9 +1,10 @@
-# 👋 Hey, I’m Sam
+# 👽 Hey, I’m codingdrone04
+
+<img src="./glorp.jpg" alt="Glorp the cat" width="300" style="border-radius:10px;"/>
 
 🎓 Java Application Development student at **Nexa**  
 🎨 Previously trained in Front-End Development @OpenClassrooms  
-💼 Apprentice developer at **Uncove** (mostly backend & database work – ArangoDB lately)  
-🧠 Curious, hands-on, and constantly learning through projects
+💼 Apprentice developer at **Uncove** (recently diving into ArangoDB 🧪)  
 
 ---
 
@@ -21,10 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codingdrone04&show_icons=true&theme=tokyonight&hide_rank=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=codingdrone04&show_icons=true&theme=tokyonight&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingdrone04&layout=compact&theme=tokyonight)
 
 ---
-
-<!-- Optionally, you can add a custom image or banner here -->
-<!-- ![Banner](./assets/banner.png) -->
