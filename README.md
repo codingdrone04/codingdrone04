@@ -1,11 +1,9 @@
 # 👽 Hey, I’m codingdrone04
 
-<table>
-  <tr>
-    <td><img src="./glorp.jpg" alt="Glorp alien cat" width="250" style="border-radius:10px;" /></td>
-    <td><img src="./glorbnormal.jpg" alt="Normal Glorp" width="250" style="border-radius:10px; transform: scaleX(-1);" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./glorp.jpg" alt="Glorp alien cat" width="250" style="border-radius:10px; margin-right: 20px;"/>
+  <img src="./glorpnormal.jpeg" alt="Normal Glorp" width="250" style="border-radius:10px;"/>
+</div>
 
 ---
 
