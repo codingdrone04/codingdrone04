@@ -18,12 +18,6 @@
   
 </div>
 
----
-
-Passionné par le dev web et mobile, je construis des apps qui (normalement) ne crashent pas. Fan de React, de café, et de side projects qui finissent à 3h du mat'. Glorp supervise tout mon code.
-
----
-
 ## Stack
 
 <div align="center">
