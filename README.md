@@ -7,20 +7,19 @@
 <br/>
 
 <p align="center">
-  Full Stack Developer @ <a href="https://uncove.com">Uncove</a> · Étudiant Expert @ Ynov Bordeaux
+  Full Stack Developer @ <a href="https://uncove.com">Uncove</a> · Student @ Ynov Bordeaux
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-sacristan/">
     <img src="https://img.shields.io/badge/LinkedIn-samuel--sacristan-2e7d32?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Bordeaux-France-4caf50?style=flat-square&logo=google-maps&logoColor=white"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Apps+qui+(normalement)+ne+crashent+pas;Supervis%C3%A9+par+Glorp+%F0%9F%91%BD;Fan+de+React%2C+de+caf%C3%A9%2C+et+de+side+projects+%C3%A0+3h+du+mat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Building+apps+that+(usually)+don't+crash;CSS+enjoyer;Glorp+%F0%9F%91%BD" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -32,7 +31,7 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,ts,mongodb,sass,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,ts,bun,express,mongodb,postgres,docker,sass,git&theme=dark" />
 </p>
 
 <br/>
@@ -41,7 +40,7 @@
 
 <br/>
 
-### Projets
+### Projects
 
 <p align="center">
   <a href="https://github.com/codingdrone04/library-app">
