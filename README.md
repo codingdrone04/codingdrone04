@@ -1,20 +1,12 @@
 # 👽 Hey, I’m Samuel
 
 <div align="center">
-  <img src="./glorp.jpg" alt="Glorp alien cat" width="250" style="border-radius:10px; transition: transform 0.3s ease;"/>
+  <img src="./glorp.jpg" alt="Glorp alien cat" width="250" style="border-radius:10px;"/>
 </div>
-
-<style>
-img[alt="Glorp alien cat"]:hover {
-  transform: rotate(5deg) scale(1.05);
-}
-</style>
 
 ---
 
-**Expert Full Stack Developer** at **Ynov** (via Nexa Digital School)
-Previously trained in Front-End Development @OpenClassrooms
-Apprentice developer at **Uncove** (diving into ArangoDB)
+**Expert Full Stack Developer** at **Ynov**
 
 ---
 
@@ -37,5 +29,10 @@ Apprentice developer at **Uncove** (diving into ArangoDB)
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codingdrone04&show_icons=true&theme=tokyonight&hide_rank=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingdrone04&layout=compact&theme=tokyonight)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codingdrone04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingdrone04&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
