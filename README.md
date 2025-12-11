@@ -31,8 +31,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codingdrone04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=codingdrone04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingdrone04&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingdrone04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=codingdrone04&theme=tokyonight&hide_border=true)
 
 </div>
