@@ -23,5 +23,3 @@ Alongside my studies, I work at **Uncove** as a full stack developer, where I co
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,ts,bun,express,mongodb,postgres,docker,sass,git&theme=dark" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:1b5e20,100:4caf50&height=100&section=footer"/>
